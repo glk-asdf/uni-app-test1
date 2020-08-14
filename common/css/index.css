@@ -1,0 +1,51 @@
+.title {
+	font-size: 36upx;
+	color: #8f8f94;
+}
+
+.text1 {
+	font-size: 1rem;
+}
+
+.view1 {
+	width: 100px;
+	background-color: #ff0000;
+}
+
+.view2 {
+	width: 100rpx;
+	background-color: #00ff00;
+}
+
+.view3 {
+	width: 50vw;
+	height: 10vh;
+	background-color: #0000ff;
+}
+
+.view4 {
+	height: var(--status-bar-height);
+	background-color: #ff0000;
+}
+
+.view5 {
+	height: var(--window-top);
+	background-color: #00ff00;
+}
+
+.view6 {
+	height: var(--window-bottom);
+	background-color: #0000ff;
+}
+
+.view7{
+	width: 50vw;
+	height: 50vw;
+	background-image: url('~@/static/image/loginLogo.png');
+	background-size: 100%;
+}
+.mask{
+	width: 50vw;
+	height: 50vw;
+	background-color: #ff0000;
+}
